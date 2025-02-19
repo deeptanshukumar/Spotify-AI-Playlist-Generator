@@ -1,0 +1,7 @@
+webbrowser
+google-generativeai
+spotipy
+ytmusicapi
+tkinter
+pytest
+requests
